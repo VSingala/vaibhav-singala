@@ -1,20 +1,88 @@
 {
-    "templateId": "glass",
-    "updatedAt": 0,
-    "responsibilities": "",
-    "profile": {
-        "fullName": "",
-        "headline": "",
-        "location": "",
-        "email": "",
-        "phone": "",
-        "website": "",
-        "github": "",
-        "linkedin": "",
-        "summary": ""
+  "updatedAt": 1767447909081,
+  "responsibilities": "",
+  "templateId": "glass",
+  "profile": {
+    "fullName": "VAIBHAV SINGALA",
+    "headline": "Lead Software Engineer ",
+    "location": "Mumbai, India",
+    "email": "singalavaibhav@gmail.com",
+    "phone": "+91 9867809284",
+    "website": "https://thecuriouseveryday.com/",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/vaibhav-singala-743b74194/",
+    "summary": "Seeking a Software Engineer position leveraging my expertise in Python, Django, PostgreSQL, MySQL and to design, develop, and maintain high-performance web applications. Seeking a Software Engineer role that provides opportunities for continuous learning and professional growth, allowing me to expand my technical expertise and contribute to a dynamic and collaborative team. To obtain a challenging Software Engineer position where I can utilize my programming skills, problem-solving abilities, and passion for technology to contribute to the development and implementation of innovative and high-quality software solutions."
+  },
+  "experience": [
+    {
+      "company": "MITS Global Consulting Pvt. Ltd.",
+      "role": "Senior Software Engineer",
+      "start": "June 2025",
+      "end": "Present",
+      "highlights": [
+        "Spearheaded the end-to-end software development lifecycle for key projects using Python, from concept and design to deployment and maintenance.",
+        "Designed and implemented robust automated testing frameworks, significantly improving feature quality and reliability.",
+        "Authored comprehensive technical documentation, including design specifications, API guides, and user manuals to support development and onboarding.",
+        "Led project planning sessions, defined technical roadmaps, and managed sprint backlogs to ensure timely delivery of features.",
+        "Mentored a team of junior engineers, conducted code reviews, and fostered a culture of collaboration and high-quality coding standards."
+      ]
     },
-    "experience": [],
-    "projects": [],
-    "skills": [],
-    "education": []
+    {
+      "company": "Rolling Arrays Consulting Pvt. Ltd.",
+      "role": "Software Engineer",
+      "start": "June 2022",
+      "end": "June 2025",
+      "highlights": [
+        "Architected and deployed scalable Django microservices with optimized PostgreSQL schemas, ensuring high-performance backend systems and data persistence.",
+        "Orchestrated seamless API integrations and refactored endpoints, achieving sub-second latency and enhancing application interoperability.",
+        "Implemented Git-based CI/CD pipelines and pytest-driven TDD, guaranteeing robust code quality and rapid feature iteration within Agile/Scrum sprints.",
+        "Containerized application deployments using Docker, ensuring consistent cross-environment execution and streamlined deployment processes.",
+        "Developed a custom Paramiko-based SSH context manager, migrating from legacy PySFTP to establish secure, passwordless connections and mitigate security vulnerabilities.",
+        "Engineered a modularized Excel-to-PDF conversion service and a PostgreSQL sequence generator, enabling customizable document generation and ACID-compliant data integrity."
+      ]
+    },
+    {
+      "company": "Mobavenue media pvt Ltd ",
+      "role": "Lead Python Developer ",
+      "start": "Dec 2025",
+      "end": "",
+      "location": "",
+      "highlights": [
+        "Architected and deployed scalable applications"
+      ]
+    }
+  ],
+  "projects": [],
+  "skills": [
+    "Python",
+    "AI/ML",
+    "Django",
+    "DRF",
+    "React.js",
+    "PostgreSQL",
+    "MySQL",
+    "PyDantic",
+    "Pytest",
+    "Git",
+    "RESTful APIs",
+    "Binary API",
+    "unittest",
+    "Selenium",
+    "Jira",
+    "dGitHub"
+  ],
+  "education": [
+    {
+      "school": "NMIMS Mukesh Patel School of Technology Management & Engineering, Mumbai",
+      "degree": "MCA – Masters in Computer Application",
+      "start": "",
+      "end": ""
+    },
+    {
+      "school": "Shailendra Education Society, Mumbai",
+      "degree": "BCA – Bachelor’s in Computer Application",
+      "start": "",
+      "end": ""
+    }
+  ]
 }
